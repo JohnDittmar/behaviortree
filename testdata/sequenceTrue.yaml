@@ -1,0 +1,4 @@
+kind: Sequence
+children:
+  - kind: Task
+    task: TrueTask

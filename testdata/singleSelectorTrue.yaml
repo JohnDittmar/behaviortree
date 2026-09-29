@@ -1,0 +1,4 @@
+kind: Selector
+children:
+  - kind: Task
+    task: TrueTask

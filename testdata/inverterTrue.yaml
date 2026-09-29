@@ -1,0 +1,4 @@
+kind: Inverter
+child:
+  kind: Task
+  task: TrueTask

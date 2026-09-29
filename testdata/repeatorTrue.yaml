@@ -1,0 +1,4 @@
+kind: Repeator
+children:
+  - kind: Task
+    task: TrueTask
